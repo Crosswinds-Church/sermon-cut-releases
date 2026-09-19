@@ -3,15 +3,16 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.17</title>
-      <pubDate>Sat, 19 Sep 2026 06:37:54 +0000</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>1.3.17</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.18</title>
+      <pubDate>Sat, 19 Sep 2026 18:54:36 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.3.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Updates are now small downloads (a few hundred KB instead of 200 MB).</li><li>If you choose Install and Relaunch while something is exporting or uploading, the toolbar says the update will install when that has finished.</li><li>A paused upload shows as "Upload paused" in re.word instead of looking stuck; a stopped one now shows as stopped right away.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.17/Sermon.Cut.1.3.17.dmg" type="application/octet-stream" sparkle:edSignature="A9sbZA8l9MB8YtAK5AQ/orZdhuqfNuaX2enWtKZRMqd8sMTHkjQtg+hDPm6VXJaPv8RUN/GsZWPMudNpRupIAQ==" length="200833875" />
+      <description><![CDATA[<ul><li>Sign in with your re.word email and password, right in the app. No more trip to the browser.</li><li>Shared Macs can sign in as themselves, set up by Mosyle, with no sign-in screen.</li><li>An upload that goes only to Vimeo now finishes as Done in re.word instead of sitting at Encoding.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.18/Sermon.Cut.1.3.18.dmg" type="application/octet-stream" sparkle:edSignature="cYYffiv/IasfiV5E+g6jtMhUI5sNUEcjEMZ4sqxv6u38EkL9cV8af/kF+ckrkaQHxRj7uTXUrmPC++ST+67KDg==" length="200873021" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.17/SermonCut-1.3.17-from-1.3.16.delta" sparkle:deltaFrom="20" type="application/octet-stream" sparkle:edSignature="YTXyjgHff+XE0K+zvkNIb1FoCUd7yhWVIiEJSJQG5qiQ90BTMkQSsfAMJZE5KlrdDDiDLuTsHrqLEwtzFheOBg==" length="331674" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.18/SermonCut-1.3.18-from-1.3.17.delta" sparkle:deltaFrom="21" type="application/octet-stream" sparkle:edSignature="h3vpRi1rmVGVBZn34ik3XQjo8lZ50rNaKT7APVkysKFvjFdb+KAjN6iTxeuZH2j5tL60OngIJzAIJTehakw/Bg==" length="424910" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.18/SermonCut-1.3.18-from-1.3.16.delta" sparkle:deltaFrom="20" type="application/octet-stream" sparkle:edSignature="YGYlNU3bam+Gh+Pmhi5SleALusnQLg0GGryjtYj9eUWxV+56/9RXm2umJafNcGPfPVHlTkONBIB7bA6rLvLCBg==" length="474818" />
       </sparkle:deltas>
     </item>
   </channel>
