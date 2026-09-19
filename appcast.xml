@@ -3,13 +3,16 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.16</title>
-      <pubDate>Sat, 19 Sep 2026 05:27:23 +0000</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>1.3.16</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.17</title>
+      <pubDate>Sat, 19 Sep 2026 06:37:54 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.3.17</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sermon Cut now updates itself: it checks once a day, and from Sermon Cut ▸ Check for Updates…. An update never restarts the app while something is exporting or uploading.</li><li>Recent: a row says "started …" while it is running and "finished …" once it has ended.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.16/Sermon.Cut.1.3.16.dmg" type="application/octet-stream" sparkle:edSignature="ai/Y1uvhD5ngr6CVKizHf/Rvs5VqHEDFdPHjuQV9ZD2OSGMr8giIxvvfmPK8SInBVrp0R4jbzjKnG5AL3EBmDg==" length="200813843" />
+      <description><![CDATA[<ul><li>Updates are now small downloads (a few hundred KB instead of 200 MB).</li><li>If you choose Install and Relaunch while something is exporting or uploading, the toolbar says the update will install when that has finished.</li><li>A paused upload shows as "Upload paused" in re.word instead of looking stuck; a stopped one now shows as stopped right away.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.17/Sermon.Cut.1.3.17.dmg" type="application/octet-stream" sparkle:edSignature="A9sbZA8l9MB8YtAK5AQ/orZdhuqfNuaX2enWtKZRMqd8sMTHkjQtg+hDPm6VXJaPv8RUN/GsZWPMudNpRupIAQ==" length="200833875" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.17/SermonCut-1.3.17-from-1.3.16.delta" sparkle:deltaFrom="20" type="application/octet-stream" sparkle:edSignature="YTXyjgHff+XE0K+zvkNIb1FoCUd7yhWVIiEJSJQG5qiQ90BTMkQSsfAMJZE5KlrdDDiDLuTsHrqLEwtzFheOBg==" length="331674" />
+      </sparkle:deltas>
     </item>
   </channel>
 </rss>
