@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sermon Cut</title>
+    <item>
+      <title>Sermon Cut 1.3.16</title>
+      <pubDate>Sat, 19 Sep 2026 05:27:23 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.3.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sermon Cut now updates itself: it checks once a day, and from Sermon Cut ▸ Check for Updates…. An update never restarts the app while something is exporting or uploading.</li><li>Recent: a row says "started …" while it is running and "finished …" once it has ended.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.16/Sermon.Cut.1.3.16.dmg" type="application/octet-stream" sparkle:edSignature="ai/Y1uvhD5ngr6CVKizHf/Rvs5VqHEDFdPHjuQV9ZD2OSGMr8giIxvvfmPK8SInBVrp0R4jbzjKnG5AL3EBmDg==" length="200813843" />
+    </item>
+  </channel>
+</rss>
