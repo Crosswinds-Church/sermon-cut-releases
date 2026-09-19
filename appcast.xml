@@ -3,16 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.18</title>
-      <pubDate>Sat, 19 Sep 2026 18:54:36 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>1.3.18</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.19</title>
+      <pubDate>Sat, 19 Sep 2026 20:48:31 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.3.19</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sign in with your re.word email and password, right in the app. No more trip to the browser.</li><li>Shared Macs can sign in as themselves, set up by Mosyle, with no sign-in screen.</li><li>An upload that goes only to Vimeo now finishes as Done in re.word instead of sitting at Encoding.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.18/Sermon.Cut.1.3.18.dmg" type="application/octet-stream" sparkle:edSignature="cYYffiv/IasfiV5E+g6jtMhUI5sNUEcjEMZ4sqxv6u38EkL9cV8af/kF+ckrkaQHxRj7uTXUrmPC++ST+67KDg==" length="200873021" />
+      <description><![CDATA[<ul><li>Recent is now your upload history: the last 20 uploads from every Mac, however old, with which Mac made them.</li><li>The home screen no longer leaves a big empty box when no drive is connected.</li><li>After signing in, "which Sunday is next" appears right away instead of after a relaunch.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.19/Sermon.Cut.1.3.19.dmg" type="application/octet-stream" sparkle:edSignature="bdQNnmMpTqWuJTzwmS3xSpkG4k1Aijt01fC89M0Wmabs3wmaboOQ3Ey2vMln6GT/4UaxG2qeqNLB5cXgoScsAg==" length="200875901" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.18/SermonCut-1.3.18-from-1.3.17.delta" sparkle:deltaFrom="21" type="application/octet-stream" sparkle:edSignature="h3vpRi1rmVGVBZn34ik3XQjo8lZ50rNaKT7APVkysKFvjFdb+KAjN6iTxeuZH2j5tL60OngIJzAIJTehakw/Bg==" length="424910" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.18/SermonCut-1.3.18-from-1.3.16.delta" sparkle:deltaFrom="20" type="application/octet-stream" sparkle:edSignature="YGYlNU3bam+Gh+Pmhi5SleALusnQLg0GGryjtYj9eUWxV+56/9RXm2umJafNcGPfPVHlTkONBIB7bA6rLvLCBg==" length="474818" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.19/SermonCut-1.3.19-from-1.3.18.delta" sparkle:deltaFrom="22" type="application/octet-stream" sparkle:edSignature="p+dzF7warEHh1ZI24XEtYplcIRsEl3I8f/+NuVQPlrQfXjK1S4bBiyCF+A4QzeNAIjAa7yJLsFosAHhC4elzAQ==" length="291366" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.19/SermonCut-1.3.19-from-1.3.17.delta" sparkle:deltaFrom="21" type="application/octet-stream" sparkle:edSignature="gsIHWd8pm5WjLIUHef0uCZXfeN6LmE/L3YYPXutWNNZig/bIA+6C2ZVU8/y4PEbLK9UqImwKsxHrnzXuXQztAQ==" length="454726" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.19/SermonCut-1.3.19-from-1.3.16.delta" sparkle:deltaFrom="20" type="application/octet-stream" sparkle:edSignature="Q9/hRh2qYgVQAfBGkRlPRUt7LdJeYUf9KLH2qJVZWby2Hn9W5r83CC2OxwH8FbNRYYm1pF7EtoISKUPkUanwCQ==" length="501102" />
       </sparkle:deltas>
     </item>
   </channel>
