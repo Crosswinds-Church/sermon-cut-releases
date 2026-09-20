@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.24</title>
-      <pubDate>Sun, 20 Sep 2026 04:10:19 +0000</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>1.3.24</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.25</title>
+      <pubDate>Sun, 20 Sep 2026 04:50:21 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.3.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>"Next up" follows the way you are working: catching up week by week, it offers the week after your last; filling a backlog from the newest down, it still offers the newest.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.24/Sermon.Cut.1.3.24.dmg" type="application/octet-stream" sparkle:edSignature="HsU91G2nNKgKVcBNpWokpON2B4MFb18aMqWNeeZtZAhzAdsPGIGqeYmcX2hLxzqtgMFld6F8RNkuGcCHW3SRCQ==" length="201182719" />
+      <description><![CDATA[<ul><li>Recent says which campus each sermon went to — both campuses run the same series, so the title alone did not.</li><li>Settings: the explaining is gone. A label and its control.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/Sermon.Cut.1.3.25.dmg" type="application/octet-stream" sparkle:edSignature="f7OwHpbFhzzjnms2Ogu8CxUZJ7BMqacNB5airxtS/7nRMkiFX1Wy2Z5HOVmFWdWFXtkc15tKFNlkYQNUrDLgDw==" length="201183708" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.24/SermonCut-1.3.24-from-1.3.23.delta" sparkle:deltaFrom="27" type="application/octet-stream" sparkle:edSignature="3yPbvSCRdNadbqLUvZLAJBlv52BGc6JPFc2KBEd995Hbns0ZoX8kFFo1S4okkRFxn0abA+komcH0VhpALrENBw==" length="767622" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.24/SermonCut-1.3.24-from-1.3.22.delta" sparkle:deltaFrom="26" type="application/octet-stream" sparkle:edSignature="vGkuVvtJyp2Z4DeprMuzLpVipbvvz9sPcaZgleX8wQZMk0sb7A6oDEYn0tsgsp+6p84PnB3FwAjG89BhEAmfDg==" length="1033690" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.24/SermonCut-1.3.24-from-1.3.21.delta" sparkle:deltaFrom="25" type="application/octet-stream" sparkle:edSignature="Upf4qatIMesfmciXyl3VXVzxB989rboItpvJXWv83AHM0ieHY1AbXhyge+xkozeV9svUiQ4G+dYhnsvHJHa4CQ==" length="1211666" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/SermonCut-1.3.25-from-1.3.24.delta" sparkle:deltaFrom="28" type="application/octet-stream" sparkle:edSignature="L6dnlW+eUYl25XlE4YfXDKfYMXstygJWVvkrCBQl2CiD22ioedIouv3fEDFQsruc2oYUw1qG066jxUPh4FTEAg==" length="306362" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/SermonCut-1.3.25-from-1.3.23.delta" sparkle:deltaFrom="27" type="application/octet-stream" sparkle:edSignature="xdEl8gf/WtDxDYQd9AFTvcvn4B9SEZwQ79IthT4t2uQmjauTrAS5vOh+gY5Ugbh2RPE/kRCyRyNK80yzyQfiDQ==" length="932406" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/SermonCut-1.3.25-from-1.3.22.delta" sparkle:deltaFrom="26" type="application/octet-stream" sparkle:edSignature="zVXTPTIufB+K7fFvbstVTcSVrBAEWvDNrTUUOUKRiPYmUsqTBXLGOvXEshX/szKz9tWWOv8qGN7H0djM0yQiDw==" length="1080850" />
       </sparkle:deltas>
     </item>
   </channel>
