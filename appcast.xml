@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.22</title>
-      <pubDate>Sun, 20 Sep 2026 00:43:48 +0000</pubDate>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>1.3.22</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.23</title>
+      <pubDate>Sun, 20 Sep 2026 02:16:19 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.3.23</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Recordings no longer go missing from the list when two weeks happen to have the same file size and length (a recorder on a timer does that).</li><li>A recording saved as a left file and a right file (a mixer backup) shows as one row and is joined into one stereo file when you open it.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.22/Sermon.Cut.1.3.22.dmg" type="application/octet-stream" sparkle:edSignature="xXpdpNP/gcjeCIVmYNlfZicnYyYsVf/O47mUCdCATWHh6f+My6yI4x0biY9S3d1p1l1quNcbfZWt4Dif+Z7ACQ==" length="201525431" />
+      <description><![CDATA[<ul><li>A recording&#39;s time now comes from the recorder&#39;s stamp in the file name, so a recording that starts early on a schedule reads 9:57, not the time its upload finished.</li><li>Scrolling to the end of a list no longer carries on into the whole window.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.23/Sermon.Cut.1.3.23.dmg" type="application/octet-stream" sparkle:edSignature="qdJ+hFDqAhdmUugVxrH81+/9KnkSdMzO1dDFy9m/0Lb5b5vvukcafwky9oQeZL31iGMNc/k8nSU+94jMgqJbAw==" length="201174333" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.22/SermonCut-1.3.22-from-1.3.21.delta" sparkle:deltaFrom="25" type="application/octet-stream" sparkle:edSignature="nCX+tUWduSdnDCG8DLpW6YKUGOqzytshoWLQYOyRqhR+fdW9yZJRg+PEqEZGGJxNLcYFxVF4i4O7yibj0/p1BQ==" length="1092438" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.22/SermonCut-1.3.22-from-1.3.20.delta" sparkle:deltaFrom="24" type="application/octet-stream" sparkle:edSignature="d3cg0hmreJJ7MbXZZYLwCS6vopx75sXqM3+tRiVwR6TgXFOZpmQGFEPDVJCa5Mtpx4jigcyWal88eM8Aihe7BA==" length="1446042" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.22/SermonCut-1.3.22-from-1.3.19.delta" sparkle:deltaFrom="23" type="application/octet-stream" sparkle:edSignature="E3x6dN8l/jkL0V/EJirN9DMa6e3d6scY7QezCgdWmTSOJr6OrV+ko9WO6bCfhMd+Td77C82KncsAt/04R+KHBw==" length="1524054" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.23/SermonCut-1.3.23-from-1.3.22.delta" sparkle:deltaFrom="26" type="application/octet-stream" sparkle:edSignature="YVTfxLwfu94pALB8sUTjZceEUM0MI7YuJ8Z0uBQ26ve9O9OeejQTIkx4lCXUwcoMYsvJoyLH13vjTmEwYDJTBg==" length="1088982" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.23/SermonCut-1.3.23-from-1.3.21.delta" sparkle:deltaFrom="25" type="application/octet-stream" sparkle:edSignature="j+zZuzeLgCUgj76boJtT+T/dLI4OJyXh6RzP9PeSJSsv7eIouh0snLcqvYVWEid7vcfo0LDS6yEVfinsY47dAw==" length="1181146" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.23/SermonCut-1.3.23-from-1.3.20.delta" sparkle:deltaFrom="24" type="application/octet-stream" sparkle:edSignature="FU4I8cn5FG34VhGvAdx+b0qefc9I1F6aHNgpJuhMHxHHQj9BmEGCmSsTBAHvicvLQ1+SfooX3wR4zp/6w4lJDw==" length="1465270" />
       </sparkle:deltas>
     </item>
   </channel>
