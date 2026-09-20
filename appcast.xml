@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.26</title>
-      <pubDate>Sun, 20 Sep 2026 05:39:31 +0000</pubDate>
-      <sparkle:version>30</sparkle:version>
-      <sparkle:shortVersionString>1.3.26</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.27</title>
+      <pubDate>Sun, 20 Sep 2026 12:13:54 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.3.27</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sermons already published fold away on the home screen, one click from opening again.</li><li>Podcast music: "Use the library’s" puts this Mac back on the workspace’s track after it was pointed at a file of its own.</li><li>The default speaker is this Mac’s, like its project — campuses have different pastors.</li><li>Settings are wider, and a refused setting on a shared Mac now says so honestly.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/Sermon.Cut.1.3.26.dmg" type="application/octet-stream" sparkle:edSignature="Z+NGZVqNHLM6VEOFICCpsy1K9oJGrbyIV5Dt9uMjBdsql4CgcO8w5vTUH4ab4unCXAUj0Q/cxT4EJECU24MmDw==" length="201168747" />
+      <description><![CDATA[<ul><li>A paired HyperDeck behaves like any other drive: a clip of twenty minutes or more is a service recording, anything shorter is under "All files on your drives", and opening one copies it here first.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/Sermon.Cut.1.3.27.dmg" type="application/octet-stream" sparkle:edSignature="QxNTUovh4Ne2ExW2tU4V2T1iIrEn3+Lc6IJ1hSa7pjeiu+BIYMX/Cjl0GlhE5tvA+ZYJjqyGqpDFPHfJtKiPBQ==" length="201169109" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/SermonCut-1.3.26-from-1.3.25.delta" sparkle:deltaFrom="29" type="application/octet-stream" sparkle:edSignature="EeZfXb+RcByw+IQRZeecNKF9ikNPLv3pt1/WmVuh3lXGyN9JfKMoI4KWGBvRzsb6bKMkMri27lQ3TGD491MNBg==" length="335422" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/SermonCut-1.3.26-from-1.3.24.delta" sparkle:deltaFrom="28" type="application/octet-stream" sparkle:edSignature="01SBpRaoXJYxPueazPzBnzpsAwbQxKmsk8EuxCzPhCyVR+LamXUZndunb955iQrbHPMW6+aZzQLa1KDXlLAzDg==" length="385290" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/SermonCut-1.3.26-from-1.3.23.delta" sparkle:deltaFrom="27" type="application/octet-stream" sparkle:edSignature="whmqoE/5wRHQ6irt5qiAXRxSdM7DcCYOqnWZLf9tjXWEkOW+mYQJFljRmj3LCppWli2vU6Jnl0SnmoiJaWndBQ==" length="1004710" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/SermonCut-1.3.27-from-1.3.26.delta" sparkle:deltaFrom="30" type="application/octet-stream" sparkle:edSignature="BR4i0bl9w8iaBXWjH2PNxpcYCFjno7iMX+BoaX7Q/H1Iw8bjYCrDJJj6+OmfoshJWoqtf9UFhLucoCYeuj9HBA==" length="222674" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/SermonCut-1.3.27-from-1.3.25.delta" sparkle:deltaFrom="29" type="application/octet-stream" sparkle:edSignature="h2D6o7DDg76rht0HA9gxGzbeO4NMaIHPZJCVLXplTsDVJdvTsnG579CfQ764Pd2Z5us/i/KFvV6iF0Fx+or0Ag==" length="346242" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/SermonCut-1.3.27-from-1.3.24.delta" sparkle:deltaFrom="28" type="application/octet-stream" sparkle:edSignature="LxhU5GXuptqSo68UvycpLDbi1g2M2oCRkUJV4OswgkrD3WIbCNcNaNX6GCwodhhORacmhQ8I0ShWeBV5+500DQ==" length="403882" />
       </sparkle:deltas>
     </item>
   </channel>
