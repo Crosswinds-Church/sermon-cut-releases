@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.20</title>
-      <pubDate>Sat, 19 Sep 2026 21:21:52 +0000</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>1.3.20</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.21</title>
+      <pubDate>Sun, 20 Sep 2026 00:06:29 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.3.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>"Next up" follows your current series: the home screen names the next sermon (for example "Wake Up Call | Wk 20, Sun, Sep 20"), and fills gaps when a backlog is being uploaded out of order.</li><li>The Export step starts with the series and week the recording&#39;s date implies.</li><li>On your drives: the suggestion comes first, every other recording is listed under it.</li><li>Dropping a recording on the drop box works.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.20/Sermon.Cut.1.3.20.dmg" type="application/octet-stream" sparkle:edSignature="fXJfjgWJi0dy8LGl7W/dO1eo0GZErg6QvWiM7fmKvF+ZC1h7KwbvSc5iH3fJ0xLq4zKtQ4i5wjQy5GtEk+ElBg==" length="200936118" />
+      <description><![CDATA[<ul><li>Audio recordings of twenty minutes or more are suggested like video ones (for a campus that records audio only). Each Mac keeps its own project, so a campus&#39;s Mac publishes to its own folder.</li><li>Settings ▸ Sources: add folders or network shares to look through, and pair a HyperDeck recorder (found by itself, or by address). A recording on the recorder is copied to this Mac when you open it.</li><li>On your drives: "All files" lists everything else the app can open, such as a short midweek class.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.21/Sermon.Cut.1.3.21.dmg" type="application/octet-stream" sparkle:edSignature="MDI2jDi1ahKuxPXZbjstn0yN2PUGeTFM4fATZLEmgwbCKQySt+XFFEpZrlB0n3PLpqcokP/pDZhK7c8Ht+6SDg==" length="201124945" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.20/SermonCut-1.3.20-from-1.3.19.delta" sparkle:deltaFrom="23" type="application/octet-stream" sparkle:edSignature="A4SU3o/LXojrAJOxcVI0sesmbRIOQwo1emvk4HcTG5rg6pCXN3ej8XaDzZ+RdGU+UHAdqjjs3tUM0rJs4vQzCQ==" length="1222718" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.20/SermonCut-1.3.20-from-1.3.18.delta" sparkle:deltaFrom="22" type="application/octet-stream" sparkle:edSignature="4aMsUkFnlXGcN3bXKsW9I8xAMooGNRknWN0ZT57lnonNtZ7YH7DQE9wX5XnXSabw6PThkm8zo5H11UXRk+rdAQ==" length="1264674" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.20/SermonCut-1.3.20-from-1.3.17.delta" sparkle:deltaFrom="21" type="application/octet-stream" sparkle:edSignature="85j0e/kIfCZtIsnVQdUl7XY5RejcBrvLfnfCcrnmmUAZDjOZ0YSf9a49At9ihRZrAzHucOy8wjxlJolqWd4sDg==" length="1406786" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.21/SermonCut-1.3.21-from-1.3.20.delta" sparkle:deltaFrom="24" type="application/octet-stream" sparkle:edSignature="lSS7U+G7R6VnNyTn0eKqbm0Q2XMfw57EKR+IcG1RG0ZcelJfDtbulXoAFTv0t9uYiewcgSjAv8TX5IvUBQqlDw==" length="1411890" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.21/SermonCut-1.3.21-from-1.3.19.delta" sparkle:deltaFrom="23" type="application/octet-stream" sparkle:edSignature="EN22b40JtoArqQL5WbDW3NRLD//b/06iHSDdAtUl7ts0wmROBDK8AIWX4rE4Gf8WbmzaqsmLMkreB1rFBhOeBA==" length="1498766" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.21/SermonCut-1.3.21-from-1.3.18.delta" sparkle:deltaFrom="22" type="application/octet-stream" sparkle:edSignature="D5/Ul4chpNwn06aD8U59JEBSODr6g2/WRM8yQ2w4ZvbupUD20w8LUc0TkjpBqTzbmTchrZ7P+MP0mNIAq2aYDw==" length="1530246" />
       </sparkle:deltas>
     </item>
   </channel>
