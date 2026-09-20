@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.27</title>
-      <pubDate>Sun, 20 Sep 2026 12:13:54 +0000</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>1.3.27</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.28</title>
+      <pubDate>Sun, 20 Sep 2026 16:24:44 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.3.28</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>A paired HyperDeck behaves like any other drive: a clip of twenty minutes or more is a service recording, anything shorter is under "All files on your drives", and opening one copies it here first.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/Sermon.Cut.1.3.27.dmg" type="application/octet-stream" sparkle:edSignature="QxNTUovh4Ne2ExW2tU4V2T1iIrEn3+Lc6IJ1hSa7pjeiu+BIYMX/Cjl0GlhE5tvA+ZYJjqyGqpDFPHfJtKiPBQ==" length="201169109" />
+      <description><![CDATA[<ul><li>Every recording says which drive, folder or recorder it came from, and a Sunday recorded in two places is two rows rather than one.</li><li>After publishing: keep the files, move them to the Trash, or delete them.</li><li>A recording copied off a recorder is removed once its export has published; that folder is now "Network Transfers".</li><li>Anything under "All files on your drives" can be hidden.</li><li>A recorder only skips the file on the card it is writing to, so a finished service on the other card shows up.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/Sermon.Cut.1.3.28.dmg" type="application/octet-stream" sparkle:edSignature="B6U2vwhvw83gymLEvNq2dao/2GvJ1gwpRpLQ9tlhq+s60Jgp9koRdhsSKiR7apxBrFnW/NaCmOpWQKX+K43ABA==" length="201216685" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/SermonCut-1.3.27-from-1.3.26.delta" sparkle:deltaFrom="30" type="application/octet-stream" sparkle:edSignature="BR4i0bl9w8iaBXWjH2PNxpcYCFjno7iMX+BoaX7Q/H1Iw8bjYCrDJJj6+OmfoshJWoqtf9UFhLucoCYeuj9HBA==" length="222674" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/SermonCut-1.3.27-from-1.3.25.delta" sparkle:deltaFrom="29" type="application/octet-stream" sparkle:edSignature="h2D6o7DDg76rht0HA9gxGzbeO4NMaIHPZJCVLXplTsDVJdvTsnG579CfQ764Pd2Z5us/i/KFvV6iF0Fx+or0Ag==" length="346242" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.27/SermonCut-1.3.27-from-1.3.24.delta" sparkle:deltaFrom="28" type="application/octet-stream" sparkle:edSignature="LxhU5GXuptqSo68UvycpLDbi1g2M2oCRkUJV4OswgkrD3WIbCNcNaNX6GCwodhhORacmhQ8I0ShWeBV5+500DQ==" length="403882" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/SermonCut-1.3.28-from-1.3.27.delta" sparkle:deltaFrom="31" type="application/octet-stream" sparkle:edSignature="6jwRz6aG5+EP5QFFBcZtwjS0G7MwM7PCv8NAlxqi09QE/4YTVArV8wxLggj6C+hehny+ZPi+SeVgbq6qUxLaBQ==" length="846730" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/SermonCut-1.3.28-from-1.3.26.delta" sparkle:deltaFrom="30" type="application/octet-stream" sparkle:edSignature="djtabbAfcy58BLzbq+pE/fYXRL3prUv9a4avY7hKVFAt0PCGGEp+sFFT5OaScOYwPy0D5LYl4xjbqYWuJ4vaCQ==" length="844858" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/SermonCut-1.3.28-from-1.3.25.delta" sparkle:deltaFrom="29" type="application/octet-stream" sparkle:edSignature="MvatBPhiI2Wr8/3YkFcxj4qV0xHdT1iG9Xt3JupWdq8LI3cInjNAYEf9bir3UjUwm3nMgQWbA6o58OooajVWAw==" length="889834" />
       </sparkle:deltas>
     </item>
   </channel>
