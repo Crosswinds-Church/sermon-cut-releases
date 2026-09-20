@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.25</title>
-      <pubDate>Sun, 20 Sep 2026 04:50:21 +0000</pubDate>
-      <sparkle:version>29</sparkle:version>
-      <sparkle:shortVersionString>1.3.25</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.26</title>
+      <pubDate>Sun, 20 Sep 2026 05:39:31 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.3.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Recent says which campus each sermon went to — both campuses run the same series, so the title alone did not.</li><li>Settings: the explaining is gone. A label and its control.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/Sermon.Cut.1.3.25.dmg" type="application/octet-stream" sparkle:edSignature="f7OwHpbFhzzjnms2Ogu8CxUZJ7BMqacNB5airxtS/7nRMkiFX1Wy2Z5HOVmFWdWFXtkc15tKFNlkYQNUrDLgDw==" length="201183708" />
+      <description><![CDATA[<ul><li>Sermons already published fold away on the home screen, one click from opening again.</li><li>Podcast music: "Use the library’s" puts this Mac back on the workspace’s track after it was pointed at a file of its own.</li><li>The default speaker is this Mac’s, like its project — campuses have different pastors.</li><li>Settings are wider, and a refused setting on a shared Mac now says so honestly.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/Sermon.Cut.1.3.26.dmg" type="application/octet-stream" sparkle:edSignature="Z+NGZVqNHLM6VEOFICCpsy1K9oJGrbyIV5Dt9uMjBdsql4CgcO8w5vTUH4ab4unCXAUj0Q/cxT4EJECU24MmDw==" length="201168747" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/SermonCut-1.3.25-from-1.3.24.delta" sparkle:deltaFrom="28" type="application/octet-stream" sparkle:edSignature="L6dnlW+eUYl25XlE4YfXDKfYMXstygJWVvkrCBQl2CiD22ioedIouv3fEDFQsruc2oYUw1qG066jxUPh4FTEAg==" length="306362" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/SermonCut-1.3.25-from-1.3.23.delta" sparkle:deltaFrom="27" type="application/octet-stream" sparkle:edSignature="xdEl8gf/WtDxDYQd9AFTvcvn4B9SEZwQ79IthT4t2uQmjauTrAS5vOh+gY5Ugbh2RPE/kRCyRyNK80yzyQfiDQ==" length="932406" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.25/SermonCut-1.3.25-from-1.3.22.delta" sparkle:deltaFrom="26" type="application/octet-stream" sparkle:edSignature="zVXTPTIufB+K7fFvbstVTcSVrBAEWvDNrTUUOUKRiPYmUsqTBXLGOvXEshX/szKz9tWWOv8qGN7H0djM0yQiDw==" length="1080850" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/SermonCut-1.3.26-from-1.3.25.delta" sparkle:deltaFrom="29" type="application/octet-stream" sparkle:edSignature="EeZfXb+RcByw+IQRZeecNKF9ikNPLv3pt1/WmVuh3lXGyN9JfKMoI4KWGBvRzsb6bKMkMri27lQ3TGD491MNBg==" length="335422" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/SermonCut-1.3.26-from-1.3.24.delta" sparkle:deltaFrom="28" type="application/octet-stream" sparkle:edSignature="01SBpRaoXJYxPueazPzBnzpsAwbQxKmsk8EuxCzPhCyVR+LamXUZndunb955iQrbHPMW6+aZzQLa1KDXlLAzDg==" length="385290" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.26/SermonCut-1.3.26-from-1.3.23.delta" sparkle:deltaFrom="27" type="application/octet-stream" sparkle:edSignature="whmqoE/5wRHQ6irt5qiAXRxSdM7DcCYOqnWZLf9tjXWEkOW+mYQJFljRmj3LCppWli2vU6Jnl0SnmoiJaWndBQ==" length="1004710" />
       </sparkle:deltas>
     </item>
   </channel>
