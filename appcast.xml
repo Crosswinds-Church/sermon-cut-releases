@@ -3,17 +3,17 @@
   <channel>
     <title>Sermon Cut</title>
     <item>
-      <title>Sermon Cut 1.3.28</title>
-      <pubDate>Sun, 20 Sep 2026 16:24:44 +0000</pubDate>
-      <sparkle:version>32</sparkle:version>
-      <sparkle:shortVersionString>1.3.28</sparkle:shortVersionString>
+      <title>Sermon Cut 1.3.29</title>
+      <pubDate>Mon, 21 Sep 2026 00:11:15 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.3.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Every recording says which drive, folder or recorder it came from, and a Sunday recorded in two places is two rows rather than one.</li><li>After publishing: keep the files, move them to the Trash, or delete them.</li><li>A recording copied off a recorder is removed once its export has published; that folder is now "Network Transfers".</li><li>Anything under "All files on your drives" can be hidden.</li><li>A recorder only skips the file on the card it is writing to, so a finished service on the other card shows up.</li></ul>]]></description>
-      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/Sermon.Cut.1.3.28.dmg" type="application/octet-stream" sparkle:edSignature="B6U2vwhvw83gymLEvNq2dao/2GvJ1gwpRpLQ9tlhq+s60Jgp9koRdhsSKiR7apxBrFnW/NaCmOpWQKX+K43ABA==" length="201216685" />
+      <description><![CDATA[<ul><li>A recording is named only when the name is actually known — a recording a mixer stamped 2024 is no longer called next Sunday&#39;s sermon.</li><li>A mixer&#39;s multitrack take is one row instead of twenty-odd channel files.</li><li>Recordings older than the earliest sermon re.word holds fold away again.</li></ul>]]></description>
+      <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.29/Sermon.Cut.1.3.29.dmg" type="application/octet-stream" sparkle:edSignature="8+C1SsczAitBnW3O9a2StsXSDbKyjxZ9YM0VEfSxQU6Kue+dWxho3zuV+LUBPa+jAzyRFpFXHGuNAgH9qKhWCg==" length="201212803" />
       <sparkle:deltas>
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/SermonCut-1.3.28-from-1.3.27.delta" sparkle:deltaFrom="31" type="application/octet-stream" sparkle:edSignature="6jwRz6aG5+EP5QFFBcZtwjS0G7MwM7PCv8NAlxqi09QE/4YTVArV8wxLggj6C+hehny+ZPi+SeVgbq6qUxLaBQ==" length="846730" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/SermonCut-1.3.28-from-1.3.26.delta" sparkle:deltaFrom="30" type="application/octet-stream" sparkle:edSignature="djtabbAfcy58BLzbq+pE/fYXRL3prUv9a4avY7hKVFAt0PCGGEp+sFFT5OaScOYwPy0D5LYl4xjbqYWuJ4vaCQ==" length="844858" />
-        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.28/SermonCut-1.3.28-from-1.3.25.delta" sparkle:deltaFrom="29" type="application/octet-stream" sparkle:edSignature="MvatBPhiI2Wr8/3YkFcxj4qV0xHdT1iG9Xt3JupWdq8LI3cInjNAYEf9bir3UjUwm3nMgQWbA6o58OooajVWAw==" length="889834" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.29/SermonCut-1.3.29-from-1.3.28.delta" sparkle:deltaFrom="32" type="application/octet-stream" sparkle:edSignature="xTBIttE6uWM60me7Ql5mxN8nOMG3lWD7eherPEbOjhZtgLgbEpiK8+kNRROZvT945N4d6fff98JeeuBFT8tPDw==" length="991118" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.29/SermonCut-1.3.29-from-1.3.27.delta" sparkle:deltaFrom="31" type="application/octet-stream" sparkle:edSignature="ZrbaA5KOsllVIw5noLSupo1tqrEzI+e92Hozn5b06YUgdmgjHnWcxZV+XIpwOWDj9p6WrnghJSj8mZ4uBq8WCQ==" length="1085830" />
+        <enclosure url="https://github.com/Crosswinds-Church/sermon-cut-releases/releases/download/v1.3.29/SermonCut-1.3.29-from-1.3.26.delta" sparkle:deltaFrom="30" type="application/octet-stream" sparkle:edSignature="WunOY59OGXKBsboFkNebcFyMfYdUaAbeFMLUwAx76PBoLt3pUXtpK+3BIkLCLahnGFivmTVi5EQY2CL2cK1jBQ==" length="1105606" />
       </sparkle:deltas>
     </item>
   </channel>
